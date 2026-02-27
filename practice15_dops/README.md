@@ -11,7 +11,7 @@ Python версии >= 3.8
 
 Нет сторонних зависимостей:
 
-git clone https://github.com/daniilanke/binary-search-tree.git
+git clone https://github.com/DaniilAnke/practice15_dops
 
 ------------------------------------------Запуск и тестирование
 
